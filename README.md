@@ -4,7 +4,7 @@
 
 # Setting the path variable
 1.Go to start -> cmd <br/>
-2.change directory where the project is saved using **cd <foldername>**<br/>
+2.change directory where the project is saved using **cd foldername**<br/>
 2.set path as : **path %path%;C:\Python27**
 
 
