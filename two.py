@@ -2,7 +2,11 @@
 import sys
 
 def gcd(x,y): 
-  return y and gcd(y, x % y) or x
+    if (y==0):
+      return x
+    else:
+      return gcd(y,x%y)
+    
 def lcm(x,y):
   return x * y / gcd(x,y)
 
