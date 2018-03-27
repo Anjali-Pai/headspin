@@ -12,7 +12,7 @@
 Download or clone the headspin repository from https://github.com/Anjali-Pai/headspin.git<br/>
 1.Open a new cmd<br/>
 2.Go to the directory where the source codes are saved using cd<br/>
-3.Execute the code as python <filename>.py<br/>
+3.Execute the code as python filename.py<br/>
 
 # Output
 **1. If we list all the natural numbers below 10 that are multiples of 4 or 5, we get 4, 5, and 8.<br/>
