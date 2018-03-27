@@ -4,12 +4,14 @@
 
 # Setting the path variable
 1.Go to start -> cmd <br/>
-2.set path at command prompt as : path %path%;C:\Python
+2.change directory where the project is saved using **cd <foldername>**<br/>
+2.set path as : **path %path%;C:\Python27**
 
 
 # Running the code
-1.Open a new cmd
-2.Go to the directory where the codes are saved using cd<br/>
+Download or clone the headspin repository from https://github.com/Anjali-Pai/headspin.git
+1.Open a new cmd<br/>
+2.Go to the directory where the source codes are saved using cd<br/>
 3.Execute the code as python <filename>.py<br/>
 
 # Output
