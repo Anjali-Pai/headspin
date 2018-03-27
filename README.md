@@ -11,7 +11,7 @@
 # Running the code
 Download or clone the headspin repository from https://github.com/Anjali-Pai/headspin.git<br/>
 1.Open a new cmd<br/>
-2.Go to the directory where the source codes are saved using cd<br/>
+2.Go to the directory where the source codes are saved using cd command<br/>
 3.Execute the code as python filename.py<br/>
 
 # Output
